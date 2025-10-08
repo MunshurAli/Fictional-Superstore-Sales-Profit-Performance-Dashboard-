@@ -46,6 +46,7 @@ It showcases how data-driven insights can support **strategic decision-making** 
 
 ### 📷 **Preview**
 
-![Dashboard Screenshot](7669107a-23bd-4446-b25e-6c198474cd8b.png)
+<img width="1476" height="904" alt="image" src="https://github.com/user-attachments/assets/cfd5ab1a-570c-4f02-b90d-735ff680d87d" />
+
 
 
